@@ -1,0 +1,401 @@
+Customer_ID,Customer_Name,Segment,Join_date,Region,Status
+CUST10000,"Johnson, Olson and Smith",Online,2020-03-28,North,Active
+CUST10001,Colon-Valdez,Enterprise,2018-02-15,West,Active
+CUST10002,"Henry, Jones and Farley",Online,2022-03-21,North,Active
+CUST10003,Williams-Dalton,Retail,2021-03-22,West,Active
+CUST10004,Fisher-Serrano,Enterprise,2018-11-02,East,Active
+CUST10005,Jennings Ltd,Online,2019-07-17,South,Active
+CUST10006,Tate-Haas,Retail,2023-10-13,West,Active
+CUST10007,"Brooks, Aguilar and Young",Enterprise,2018-05-14,North,Active
+CUST10008,Herrera-Ingram,Retail,2018-09-07,East,Active
+CUST10009,"Dunn, Graham and Brown",Retail,2021-02-02,West,Active
+CUST10010,"Moore, Walker and Gutierrez",Retail,2017-04-06,East,Active
+CUST10011,Turner-Lawson,Enterprise,2017-07-04,West,Active
+CUST10012,Hernandez PLC,Enterprise,2023-08-13,East,Active
+CUST10013,"Hernandez, Stuart and Mejia",Enterprise,2020-02-03,South,Active
+CUST10014,Meza Group,Online,2023-10-16,East,Active
+CUST10015,Sanchez-Hill,Online,2021-04-27,East,Active
+CUST10016,Hancock LLC,Retail,2020-03-10,West,Active
+CUST10017,Guerrero and Sons,Retail,2022-06-10,West,Active
+CUST10018,Mejia-Murphy,Online,2018-07-27,West,Active
+CUST10019,"Marquez, Rivera and Flores",Retail,2017-07-25,North,Active
+CUST10020,Sullivan-Moore,Retail,2023-06-11,South,Active
+CUST10021,Nunez-Allen,Retail,2020-09-04,East,Active
+CUST10022,Meyer-Guzman,Online,2017-06-11,East,Active
+CUST10023,Craig-Hurst,Retail,2017-12-14,East,Active
+CUST10024,"Richards, Ryan and Burns",Online,2018-03-01,West,Active
+CUST10025,Garcia-Dickson,Enterprise,2022-10-20,West,Active
+CUST10026,Gonzales Inc,Retail,2017-05-11,East,Active
+CUST10027,Bass-Marsh,Online,2017-12-23,South,Active
+CUST10028,Hampton-Livingston,Retail,2019-05-28,West,Active
+CUST10029,Hurst-Wolfe,Retail,2019-12-19,North,Active
+CUST10030,"Stone, Mills and Singh",Retail,2019-04-07,West,Active
+CUST10031,Mcdaniel Ltd,Enterprise,2023-05-01,North,Active
+CUST10032,"Calderon, Mendoza and Aguirre",Online,2023-09-25,North,Active
+CUST10033,York-Wright,Retail,2019-01-10,West,Active
+CUST10034,Williams PLC,Online,2022-05-14,East,Active
+CUST10035,Zavala LLC,Online,2018-02-21,South,Active
+CUST10036,Thomas-Larson,Retail,2023-06-08,North,Active
+CUST10037,Odom and Sons,Enterprise,2017-07-24,South,Active
+CUST10038,Simmons Inc,Retail,2021-10-15,East,Active
+CUST10039,Clay-Ford,Enterprise,2022-03-16,West,Active
+CUST10040,"Wilcox, Sharp and West",Enterprise,2022-03-15,South,Active
+CUST10041,Adams LLC,Online,2017-10-25,East,Active
+CUST10042,"Smith, Coleman and Ortiz",Retail,2019-09-04,South,Active
+CUST10043,"Gonzalez, Barton and Robles",Retail,2022-10-07,East,Active
+CUST10044,Scott-Bryant,Enterprise,2022-04-25,East,Active
+CUST10045,"Curry, Owens and Carter",Retail,2020-06-30,South,Active
+CUST10046,Sullivan-Fowler,Retail,2019-06-12,West,Active
+CUST10047,Olson-Griffin,Enterprise,2020-05-04,East,Active
+CUST10048,Miller-Fernandez,Enterprise,2019-07-28,South,Active
+CUST10049,"Sullivan, Leon and Oconnell",Retail,2023-12-11,North,Active
+CUST10050,"Elliott, Larson and Gross",Enterprise,2019-02-22,East,Active
+CUST10051,"Murphy, Morris and Yang",Retail,2021-04-09,North,Active
+CUST10052,Obrien-Allen,Enterprise,2019-02-26,West,Active
+CUST10053,"Gibbs, Walls and Robinson",Enterprise,2022-03-19,South,Active
+CUST10054,Lee-Armstrong,Enterprise,2020-01-29,West,Active
+CUST10055,"Smith, Harris and Charles",Online,2021-01-07,South,Active
+CUST10056,"Cantu, Elliott and Townsend",Online,2022-11-06,East,Active
+CUST10057,Sandoval PLC,Online,2017-05-10,West,Active
+CUST10058,"Diaz, Mcconnell and Nguyen",Online,2021-06-20,West,Active
+CUST10059,Wilson LLC,Retail,2023-12-30,South,Active
+CUST10060,Sharp PLC,Enterprise,2020-07-30,West,Active
+CUST10061,Davis-Gonzales,Enterprise,2023-03-01,South,Active
+CUST10062,Thomas Group,Enterprise,2021-12-11,East,Active
+CUST10063,"Hayes, Ramos and Munoz",Online,2019-06-24,West,Active
+CUST10064,Short-Cooper,Enterprise,2020-11-29,South,Active
+CUST10065,Price-Davis,Online,2021-06-27,West,Active
+CUST10066,Randolph and Sons,Retail,2021-06-24,West,Active
+CUST10067,Hudson LLC,Retail,2020-11-29,North,Active
+CUST10068,Jacobs and Sons,Enterprise,2019-03-07,North,Active
+CUST10069,Williams and Sons,Retail,2017-09-13,East,Active
+CUST10070,"Ward, Lopez and Meza",Retail,2017-04-21,South,Active
+CUST10071,"Hines, Jones and Malone",Retail,2020-06-10,West,Active
+CUST10072,Sullivan Group,Enterprise,2023-08-02,South,Active
+CUST10073,Johns-Thompson,Enterprise,2023-02-26,West,Active
+CUST10074,"Mccarthy, Hernandez and May",Online,2021-11-16,West,Active
+CUST10075,Sanders Inc,Enterprise,2018-08-25,East,Active
+CUST10076,Griffith-Collins,Online,2019-01-12,West,Active
+CUST10077,"Atkinson, Garcia and Bass",Enterprise,2020-08-26,East,Active
+CUST10078,Franklin-Patel,Online,2017-02-02,South,Active
+CUST10079,Maynard Group,Online,2021-11-07,South,Active
+CUST10080,Dixon Group,Enterprise,2017-09-13,North,Active
+CUST10081,Aguilar-Mitchell,Online,2017-06-29,South,Active
+CUST10082,Dean PLC,Online,2020-09-19,West,Active
+CUST10083,Ross Inc,Retail,2017-02-15,North,Active
+CUST10084,Morgan-Sellers,Enterprise,2022-02-01,West,Active
+CUST10085,Nguyen-Alvarez,Retail,2022-07-05,East,Active
+CUST10086,Harris LLC,Retail,2023-09-17,North,Active
+CUST10087,Wright and Sons,Online,2019-09-15,North,Active
+CUST10088,"Richards, Barnes and Arnold",Enterprise,2017-03-22,South,Active
+CUST10089,Martinez Inc,Online,2021-10-19,West,Active
+CUST10090,Martinez Group,Retail,2017-06-23,East,Active
+CUST10091,"Hamilton, Stanley and Weber",Online,2023-04-23,West,Active
+CUST10092,"Jackson, Park and Lane",Retail,2020-03-09,East,Active
+CUST10093,Johnson Ltd,Retail,2020-03-21,North,Active
+CUST10094,"Marquez, Wade and Taylor",Online,2018-10-10,South,Active
+CUST10095,Murray and Sons,Enterprise,2018-12-13,South,Active
+CUST10096,"Parker, Wang and Herrera",Retail,2019-01-06,East,Active
+CUST10097,"Roman, Pacheco and Johnston",Enterprise,2021-06-12,West,Active
+CUST10098,"Patterson, Hicks and Marquez",Enterprise,2021-06-08,South,Active
+CUST10099,"Brown, Clark and Smith",Enterprise,2018-01-11,East,Active
+CUST10100,"Wilkinson, Hernandez and Johnson",Retail,2020-08-12,North,Active
+CUST10101,"Wilson, Evans and Rosales",Retail,2018-03-26,West,Active
+CUST10102,"Taylor, Powell and Moore",Online,2021-08-05,West,Active
+CUST10103,"Petersen, Mejia and Morgan",Enterprise,2021-09-06,South,Active
+CUST10104,Jackson-Miles,Retail,2023-11-14,West,Active
+CUST10105,Meyer-Valdez,Retail,2020-12-09,North,Active
+CUST10106,"Gray, Vance and Cisneros",Enterprise,2022-03-03,East,Active
+CUST10107,Anderson-Ellis,Enterprise,2021-09-18,West,Active
+CUST10108,"Boyd, James and Parsons",Enterprise,2022-07-04,South,Active
+CUST10109,"Griffith, Anderson and Esparza",Online,2023-07-06,East,Active
+CUST10110,Walker-Woods,Enterprise,2020-12-17,East,Active
+CUST10111,"Sharp, Davis and Jones",Online,2019-07-26,West,Active
+CUST10112,Patterson-Thompson,Online,2017-11-21,East,Active
+CUST10113,"Ross, Wolfe and Lee",Enterprise,2023-08-28,West,Active
+CUST10114,Ball Group,Online,2018-07-13,East,Active
+CUST10115,"George, Parks and Cardenas",Enterprise,2019-09-14,East,Active
+CUST10116,Archer PLC,Enterprise,2022-02-08,West,Active
+CUST10117,Nash PLC,Enterprise,2020-10-07,West,Active
+CUST10118,Douglas Group,Retail,2017-08-16,East,Active
+CUST10119,Pace Group,Online,2018-04-03,West,Active
+CUST10120,Richardson Ltd,Retail,2018-06-16,West,Active
+CUST10121,Evans-Green,Online,2017-06-03,North,Active
+CUST10122,Kelly-Smith,Online,2021-09-19,East,Active
+CUST10123,"Merritt, Hale and Chapman",Retail,2019-11-06,East,Active
+CUST10124,Stevens-Sawyer,Online,2017-10-24,East,Active
+CUST10125,Jordan-Davis,Retail,2020-03-27,West,Active
+CUST10126,Weiss PLC,Online,2017-07-25,East,Active
+CUST10127,Meyer Ltd,Enterprise,2020-11-08,South,Active
+CUST10128,"Webb, Hancock and Fisher",Retail,2017-10-25,South,Active
+CUST10129,Rosales-Ochoa,Enterprise,2019-10-04,North,Active
+CUST10130,Wallace Group,Online,2021-06-06,North,Active
+CUST10131,"Snyder, Barnes and Hoffman",Retail,2018-02-02,North,Active
+CUST10132,Perez Group,Enterprise,2021-01-03,South,Active
+CUST10133,Turner-Curry,Online,2023-05-12,West,Active
+CUST10134,"Wolf, Mason and Richardson",Online,2021-12-07,North,Active
+CUST10135,Turner-Young,Enterprise,2019-08-14,South,Active
+CUST10136,Schmidt Inc,Enterprise,2020-10-16,South,Active
+CUST10137,Brown Group,Online,2023-12-10,East,Active
+CUST10138,Martin-Gonzalez,Retail,2018-03-07,North,Active
+CUST10139,Williams-Sanchez,Retail,2017-02-15,East,Active
+CUST10140,"Burns, Wise and Johnson",Enterprise,2021-06-02,East,Active
+CUST10141,Green-Moore,Online,2017-04-18,South,Active
+CUST10142,"Jennings, Huang and Wilson",Retail,2021-12-29,North,Active
+CUST10143,Waters-Phillips,Online,2019-03-30,East,Active
+CUST10144,Osborne-Wolfe,Retail,2021-03-07,North,Active
+CUST10145,Jordan-Rodriguez,Online,2021-08-28,East,Active
+CUST10146,"Ward, Barber and Ruiz",Retail,2017-06-29,West,Active
+CUST10147,"Lee, Sherman and Roberts",Enterprise,2017-01-14,East,Active
+CUST10148,"Richards, Ramsey and Williams",Retail,2022-02-17,South,Active
+CUST10149,Hogan LLC,Enterprise,2019-10-04,West,Active
+CUST10150,Wright-Ali,Online,2023-04-28,West,Active
+CUST10151,"Horn, Henry and Walter",Online,2020-11-06,West,Active
+CUST10152,Freeman-Levine,Online,2022-03-17,South,Active
+CUST10153,"Austin, Hooper and Miller",Enterprise,2023-01-19,West,Active
+CUST10154,Jackson Group,Enterprise,2023-04-03,West,Active
+CUST10155,"Lee, Henderson and Perez",Enterprise,2019-11-24,South,Active
+CUST10156,Cummings LLC,Retail,2020-05-15,West,Active
+CUST10157,"Anderson, Weeks and Gonzalez",Online,2020-12-29,South,Active
+CUST10158,"Williams, Cohen and Miles",Retail,2018-04-22,South,Active
+CUST10159,Cortez Ltd,Online,2021-10-13,South,Active
+CUST10160,Munoz and Sons,Online,2022-07-11,West,Active
+CUST10161,"Klein, Carroll and Howe",Enterprise,2019-03-17,West,Active
+CUST10162,Mercado-Aguilar,Retail,2023-06-23,North,Active
+CUST10163,Marsh Group,Retail,2018-09-13,East,Active
+CUST10164,Ford-Rodriguez,Retail,2021-03-22,North,Active
+CUST10165,"Davis, Brown and Ramsey",Online,2018-11-23,South,Active
+CUST10166,Higgins-Peterson,Retail,2019-01-03,East,Active
+CUST10167,Roth-Bell,Retail,2023-03-25,East,Active
+CUST10168,"Sparks, Kent and Anderson",Retail,2017-07-03,West,Active
+CUST10169,Webster Group,Online,2021-07-11,West,Active
+CUST10170,Rosario-Montgomery,Retail,2018-02-23,East,Active
+CUST10171,Russell Group,Retail,2020-03-25,West,Active
+CUST10172,Miller Ltd,Retail,2021-08-05,South,Active
+CUST10173,Fowler Inc,Enterprise,2020-02-04,West,Active
+CUST10174,"Morrow, Mosley and Hopkins",Enterprise,2017-05-18,North,Active
+CUST10175,Preston-Moreno,Retail,2020-11-06,South,Active
+CUST10176,Newton-Ray,Online,2019-07-11,West,Active
+CUST10177,"Taylor, Ramsey and Kelly",Retail,2023-03-12,West,Active
+CUST10178,"Carney, Carter and Bailey",Retail,2023-11-12,West,Active
+CUST10179,Mcmahon Ltd,Retail,2019-08-21,South,Active
+CUST10180,Patterson-Jackson,Retail,2017-10-25,West,Active
+CUST10181,"Williamson, Boone and Wallace",Online,2022-08-14,East,Active
+CUST10182,Jordan-Adams,Online,2019-03-13,East,Active
+CUST10183,Maldonado Ltd,Online,2017-11-26,North,Active
+CUST10184,Gill and Sons,Enterprise,2020-12-17,West,Active
+CUST10185,"Hernandez, Andrews and Gomez",Online,2020-03-24,South,Active
+CUST10186,Parker-Rowland,Online,2017-07-05,East,Active
+CUST10187,"Booker, Gomez and Jones",Retail,2017-07-02,South,Active
+CUST10188,"Sanchez, Patton and Becker",Online,2021-01-06,West,Active
+CUST10189,Peters-Roberts,Online,2022-12-01,South,Active
+CUST10190,Sandoval-Morgan,Retail,2021-03-14,West,Active
+CUST10191,Brooks Group,Retail,2020-06-08,West,Active
+CUST10192,"Freeman, Smith and King",Online,2021-01-28,South,Active
+CUST10193,"Ruiz, White and Mckenzie",Enterprise,2022-07-26,East,Active
+CUST10194,Graham-Frazier,Retail,2017-09-28,South,Active
+CUST10195,Davis LLC,Online,2020-01-21,North,Active
+CUST10196,Gardner and Sons,Retail,2022-05-20,West,Active
+CUST10197,Shaw LLC,Retail,2021-06-25,North,Active
+CUST10198,Berry-Mckee,Online,2023-11-02,West,Active
+CUST10199,"Dominguez, Martin and Smith",Enterprise,2023-05-07,South,Active
+CUST10200,West PLC,Online,2022-06-10,North,Active
+CUST10201,"Taylor, Heath and Phillips",Enterprise,2018-04-01,East,Active
+CUST10202,"Lawrence, Hernandez and Garrett",Online,2022-08-08,West,Active
+CUST10203,Fry-Turner,Retail,2019-09-26,North,Active
+CUST10204,Thomas Ltd,Retail,2021-07-24,South,Active
+CUST10205,Castillo Group,Enterprise,2021-04-03,South,Active
+CUST10206,"Farrell, Smith and Roy",Retail,2022-12-02,South,Active
+CUST10207,Compton LLC,Enterprise,2019-11-04,West,Active
+CUST10208,"Dixon, Dawson and James",Online,2019-05-23,North,Active
+CUST10209,Ward PLC,Retail,2017-04-04,North,Active
+CUST10210,"Flowers, Smith and Thomas",Retail,2017-12-04,North,Active
+CUST10211,Sanchez-Jones,Retail,2019-11-22,South,Active
+CUST10212,Skinner LLC,Retail,2021-11-21,West,Active
+CUST10213,"Lewis, Jensen and Berry",Retail,2018-06-07,North,Active
+CUST10214,Johnson-Moore,Online,2020-08-18,West,Active
+CUST10215,"Church, Burns and Davis",Online,2017-11-18,South,Active
+CUST10216,Turner and Sons,Online,2020-06-21,West,Active
+CUST10217,"Alvarez, Chang and Brown",Retail,2019-01-23,South,Active
+CUST10218,Jones-Gomez,Retail,2019-12-30,West,Active
+CUST10219,Dodson Ltd,Online,2020-11-23,West,Active
+CUST10220,"Bentley, Ibarra and Anderson",Enterprise,2022-07-24,East,Active
+CUST10221,"Barnes, Williams and Pennington",Retail,2019-02-04,North,Active
+CUST10222,Gutierrez LLC,Enterprise,2019-05-03,West,Active
+CUST10223,"Franklin, Mosley and Costa",Enterprise,2019-09-16,East,Active
+CUST10224,Smith-Weaver,Online,2020-04-05,North,Active
+CUST10225,"Jones, Whitaker and Graves",Retail,2022-10-26,East,Active
+CUST10226,"Payne, Williams and Aguilar",Enterprise,2021-08-21,South,Active
+CUST10227,Morris-Moore,Retail,2023-05-22,West,Active
+CUST10228,Newton and Sons,Retail,2019-03-20,South,Active
+CUST10229,"Torres, Orr and Smith",Enterprise,2020-08-09,North,Active
+CUST10230,Reese Ltd,Online,2019-07-17,East,Active
+CUST10231,Berry Inc,Retail,2018-11-29,North,Active
+CUST10232,Nichols-Franklin,Online,2020-10-23,North,Active
+CUST10233,"Gray, Barrett and Gardner",Enterprise,2022-09-30,East,Active
+CUST10234,Weber-West,Retail,2019-03-24,East,Active
+CUST10235,Moon Ltd,Online,2017-11-25,West,Active
+CUST10236,Bell LLC,Online,2023-09-09,South,Active
+CUST10237,"Snow, Campbell and Dominguez",Online,2017-09-04,North,Active
+CUST10238,Perez PLC,Online,2019-04-24,North,Active
+CUST10239,"Evans, Matthews and Kim",Online,2017-02-25,North,Active
+CUST10240,Hall Ltd,Online,2018-06-22,South,Active
+CUST10241,Estes LLC,Online,2019-08-11,North,Active
+CUST10242,"Lopez, Knapp and Bruce",Retail,2021-08-19,South,Active
+CUST10243,Sosa Inc,Enterprise,2017-03-01,West,Active
+CUST10244,Warner PLC,Retail,2021-09-11,North,Active
+CUST10245,Green-Ferrell,Enterprise,2020-10-18,North,Active
+CUST10246,Hudson PLC,Enterprise,2021-06-01,East,Active
+CUST10247,Conley Group,Enterprise,2021-07-10,West,Active
+CUST10248,Nguyen Inc,Retail,2019-02-04,South,Active
+CUST10249,Allen and Sons,Retail,2020-05-18,West,Active
+CUST10250,Avila-Harris,Online,2017-05-19,South,Active
+CUST10251,Graham LLC,Enterprise,2017-12-31,South,Active
+CUST10252,Huang-Cunningham,Enterprise,2022-01-18,West,Active
+CUST10253,Beck-Schmitt,Retail,2021-06-17,North,Active
+CUST10254,"Tran, Wilkerson and Vasquez",Enterprise,2021-12-19,West,Active
+CUST10255,Williams-Long,Retail,2021-10-05,West,Active
+CUST10256,Hill Inc,Online,2017-06-05,East,Active
+CUST10257,Neal Group,Retail,2021-08-03,West,Active
+CUST10258,"Johnson, Cummings and Sloan",Online,2019-12-21,East,Active
+CUST10259,Cameron Group,Online,2019-03-14,West,Active
+CUST10260,Mendez-Jordan,Retail,2017-02-21,East,Active
+CUST10261,"Robinson, Martin and Combs",Online,2018-06-14,East,Active
+CUST10262,Austin PLC,Retail,2018-11-27,North,Active
+CUST10263,Hurley-Mills,Enterprise,2023-07-15,North,Active
+CUST10264,"Allison, Rhodes and Gardner",Online,2022-04-30,East,Active
+CUST10265,Foster Group,Online,2019-12-19,North,Active
+CUST10266,Leonard-Howard,Enterprise,2019-11-27,North,Active
+CUST10267,"Bass, Stewart and Long",Online,2017-02-28,North,Active
+CUST10268,"Sosa, Marshall and Yoder",Retail,2017-04-06,North,Active
+CUST10269,Johnson PLC,Retail,2018-03-13,East,Active
+CUST10270,Miles Ltd,Enterprise,2021-08-04,South,Active
+CUST10271,Weaver Ltd,Online,2022-05-27,West,Active
+CUST10272,"Lewis, Watson and Underwood",Online,2018-02-16,North,Active
+CUST10273,Black Group,Retail,2018-09-11,North,Active
+CUST10274,"Powers, May and Wise",Enterprise,2021-07-12,West,Active
+CUST10275,Garcia-Thompson,Enterprise,2022-06-06,East,Active
+CUST10276,Taylor and Sons,Retail,2017-07-18,South,Active
+CUST10277,Wilson Inc,Online,2017-07-08,West,Active
+CUST10278,"Miranda, Abbott and Garcia",Online,2022-11-03,South,Active
+CUST10279,Davila PLC,Online,2021-01-31,South,Active
+CUST10280,"Duran, Barton and Gonzalez",Online,2023-08-29,South,Active
+CUST10281,"Meadows, Mckinney and Durham",Enterprise,2018-02-26,South,Active
+CUST10282,Stewart-Mason,Online,2018-06-19,West,Active
+CUST10283,Gonzalez-Griffin,Online,2020-04-09,West,Active
+CUST10284,"Figueroa, Sandoval and Wang",Retail,2019-05-31,North,Active
+CUST10285,Fox-Garcia,Online,2021-04-08,South,Active
+CUST10286,Turner-Jones,Online,2018-02-18,South,Active
+CUST10287,Thomas-Rodriguez,Retail,2019-08-19,West,Active
+CUST10288,Lopez-Buckley,Enterprise,2017-04-24,North,Active
+CUST10289,Wang-Sanders,Retail,2017-06-14,North,Active
+CUST10290,"Baker, Cisneros and Cross",Enterprise,2019-05-25,South,Active
+CUST10291,"Sanders, Wong and Berger",Online,2019-01-17,South,Active
+CUST10292,Charles and Sons,Enterprise,2017-02-16,West,Active
+CUST10293,Lee Inc,Online,2018-11-02,South,Active
+CUST10294,Rodriguez-Chung,Retail,2023-08-02,East,Active
+CUST10295,Willis Ltd,Enterprise,2023-10-03,East,Active
+CUST10296,"Kramer, Mcdaniel and Garcia",Retail,2019-11-15,North,Active
+CUST10297,Garza-Zimmerman,Enterprise,2023-11-18,West,Active
+CUST10298,Acosta LLC,Enterprise,2017-01-08,East,Active
+CUST10299,"Hood, Graham and Andrews",Retail,2017-05-08,East,Active
+CUST10300,Wilson-Duncan,Online,2023-04-11,East,Active
+CUST10301,Baker Inc,Online,2017-12-25,North,Active
+CUST10302,"Contreras, Bell and Torres",Enterprise,2021-03-28,East,Active
+CUST10303,Barnett Group,Enterprise,2019-12-27,South,Active
+CUST10304,Webster-James,Retail,2017-06-22,West,Active
+CUST10305,Wilson-Marshall,Enterprise,2019-04-16,North,Active
+CUST10306,"Vaughn, Davidson and Bartlett",Retail,2022-02-22,West,Active
+CUST10307,Anderson LLC,Retail,2023-10-05,North,Active
+CUST10308,Mathis LLC,Enterprise,2022-09-25,North,Active
+CUST10309,"Murray, Joseph and Wells",Retail,2020-12-21,East,Active
+CUST10310,Romero Ltd,Online,2018-11-15,West,Active
+CUST10311,"Werner, Hunter and Harvey",Retail,2017-07-08,West,Active
+CUST10312,Harrison LLC,Retail,2022-04-19,West,Active
+CUST10313,Martinez-Bush,Enterprise,2018-02-16,South,Active
+CUST10314,Sutton Inc,Enterprise,2022-10-14,North,Active
+CUST10315,"Sweeney, Hart and Davis",Enterprise,2021-03-21,West,Active
+CUST10316,"Parker, Richardson and Barton",Online,2017-08-05,West,Active
+CUST10317,"Tyler, Swanson and Murray",Online,2020-01-09,West,Active
+CUST10318,Waller PLC,Enterprise,2019-07-08,South,Active
+CUST10319,Gomez-Valencia,Enterprise,2018-02-05,South,Active
+CUST10320,"Hall, Daugherty and Ferrell",Retail,2022-09-13,West,Active
+CUST10321,Whitney Inc,Enterprise,2020-12-12,West,Active
+CUST10322,Mckinney PLC,Enterprise,2019-05-16,East,Active
+CUST10323,Mathis-Smith,Online,2019-12-13,West,Active
+CUST10324,Potter Group,Online,2017-03-13,North,Active
+CUST10325,Horton Group,Online,2018-04-25,East,Active
+CUST10326,"Francis, Dominguez and Lopez",Online,2023-01-12,West,Active
+CUST10327,Hardy-Wong,Enterprise,2020-10-19,South,Active
+CUST10328,Holmes Inc,Retail,2017-09-29,South,Active
+CUST10329,Pittman Ltd,Enterprise,2021-01-18,South,Active
+CUST10330,Horn Inc,Online,2022-04-24,North,Active
+CUST10331,Duncan-Hill,Online,2023-01-18,North,Active
+CUST10332,Calhoun-Estrada,Retail,2020-08-04,South,Active
+CUST10333,"Frank, Webster and Ferguson",Enterprise,2019-03-23,East,Active
+CUST10334,"Cole, Coleman and Jensen",Retail,2018-08-24,South,Active
+CUST10335,Maldonado-Gilmore,Retail,2018-01-26,South,Active
+CUST10336,Sanchez-Smith,Enterprise,2018-01-25,East,Active
+CUST10337,"Howe, Haley and Ross",Retail,2020-03-02,South,Active
+CUST10338,"Williams, Jacobs and Freeman",Retail,2017-03-30,North,Active
+CUST10339,Gardner Ltd,Retail,2018-03-06,West,Active
+CUST10340,"Reyes, Jones and Blake",Enterprise,2020-10-29,East,Active
+CUST10341,Harris Ltd,Retail,2020-05-05,West,Active
+CUST10342,"Guzman, Kelly and Marshall",Online,2023-09-30,East,Active
+CUST10343,Garza-Kramer,Enterprise,2020-06-19,North,Active
+CUST10344,"Clayton, Morgan and Bell",Retail,2023-08-21,East,Active
+CUST10345,"Chen, Robinson and Hoover",Retail,2019-01-29,South,Active
+CUST10346,Browning Inc,Online,2019-03-07,South,Active
+CUST10347,Kim Group,Retail,2023-07-27,West,Active
+CUST10348,"Holmes, Brown and Burns",Enterprise,2018-08-27,East,Active
+CUST10349,Stephens Ltd,Enterprise,2023-04-02,West,Active
+CUST10350,Fisher Ltd,Online,2019-10-20,East,Active
+CUST10351,Harrell-Burnett,Online,2018-02-01,East,Active
+CUST10352,Griffin-Tate,Enterprise,2023-06-01,North,Active
+CUST10353,Santiago-Gray,Retail,2022-08-08,West,Active
+CUST10354,"Miller, Powell and Reynolds",Online,2017-08-01,East,Active
+CUST10355,Smith-Reyes,Enterprise,2018-03-04,West,Active
+CUST10356,Thomas-Steele,Enterprise,2020-02-02,East,Active
+CUST10357,Webb Ltd,Retail,2021-10-14,South,Active
+CUST10358,Richardson-Rose,Online,2020-03-16,South,Active
+CUST10359,"Williams, Moreno and Wallace",Online,2017-12-23,East,Active
+CUST10360,Harrison Group,Enterprise,2018-04-02,South,Active
+CUST10361,Parker-Nelson,Retail,2022-11-26,West,Active
+CUST10362,Martin-Nelson,Online,2019-12-07,North,Active
+CUST10363,Parker Inc,Online,2020-02-07,South,Active
+CUST10364,"Allen, Walker and Jones",Retail,2020-11-06,West,Active
+CUST10365,Frazier and Sons,Enterprise,2020-07-22,West,Active
+CUST10366,Martinez-Roman,Retail,2022-04-16,West,Active
+CUST10367,Lee Ltd,Retail,2023-03-21,South,Active
+CUST10368,Sosa-Buchanan,Online,2020-08-20,North,Active
+CUST10369,Evans Group,Enterprise,2020-12-29,North,Active
+CUST10370,"Day, Ray and Melendez",Online,2022-01-23,East,Active
+CUST10371,"Roy, Smith and Pugh",Enterprise,2022-08-04,North,Active
+CUST10372,Chang LLC,Online,2023-08-20,North,Inactive
+CUST10373,"Snow, Olsen and Decker",Retail,2017-08-27,South,Inactive
+CUST10374,Ortiz Inc,Retail,2017-04-09,West,Inactive
+CUST10375,Miller LLC,Enterprise,2020-10-16,South,Inactive
+CUST10376,Nichols-Montoya,Online,2017-06-23,West,Inactive
+CUST10377,Sanders-Kramer,Online,2020-09-22,South,Inactive
+CUST10378,Anderson Ltd,Enterprise,2021-02-25,West,Inactive
+CUST10379,"Moore, Frank and Anderson",Retail,2021-04-05,South,Inactive
+CUST10380,"Flowers, Snyder and Morris",Online,2017-08-26,East,Inactive
+CUST10381,"James, Odom and Kemp",Enterprise,2019-07-24,South,Inactive
+CUST10382,Harmon-Callahan,Retail,2020-12-26,North,Inactive
+CUST10383,"Mooney, Sanchez and David",Online,2020-12-31,South,Inactive
+CUST10384,"Robertson, Riddle and Wagner",Retail,2020-06-08,North,Inactive
+CUST10385,"Knox, Jimenez and Allen",Online,2021-03-29,West,Inactive
+CUST10386,Harper-Perez,Online,2021-04-06,North,Inactive
+CUST10387,"Lee, Mills and Ellis",Online,2017-05-31,South,Inactive
+CUST10388,"Alvarez, Mendez and Marshall",Online,2021-08-11,East,Inactive
+CUST10389,Garcia-Gibbs,Enterprise,2022-12-20,West,Inactive
+CUST10390,Francis-Patterson,Online,2020-05-14,South,Inactive
+CUST10391,Duran-Knox,Enterprise,2019-12-28,South,Inactive
+CUST10392,Nelson and Sons,Enterprise,2021-09-30,West,Inactive
+CUST10393,Martinez-Harper,Enterprise,2022-07-29,North,Inactive
+CUST10394,"Wallace, Colon and Shelton",Enterprise,2020-02-06,North,Inactive
+CUST10395,Rodriguez-Ibarra,Retail,2017-07-23,North,Inactive
+CUST10396,"Hall, Harris and Bell",Retail,2018-02-19,North,Inactive
+CUST10397,Franklin-Lopez,Enterprise,2020-03-09,South,Inactive
+CUST10398,Schneider-Gray,Enterprise,2017-01-27,East,Inactive
+CUST10399,Marshall-Horne,Enterprise,2019-04-08,East,Inactive
